@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+# Compiled cpp file
+*.out
+*.exe
+
 # Log file
 *.log
 
